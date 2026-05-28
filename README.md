@@ -21,4 +21,5 @@ IUCLID (International Uniform Chemical Information Database) is a free software 
       - Cytotoxicity
       - Vehicle control validity
       - Positive / negative control validity
-  - IUCLID6 내부 값들 중 일부는 숫자 또는 코드 형태로 저장되어 있음 실제 텍스트 값으로 변환하기 **'list of field.csv'** 파일 사용
+  - IUCLID6 내부 값들 중 일부는 숫자 또는 코드 형태로 저장되어 있음
+  - 실제 텍스트 값으로 변환하기 **'list of field.csv'** 파일 사용
