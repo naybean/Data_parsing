@@ -1,4 +1,4 @@
-## IUCLID6 Genetic Toxicity Parser
+** IUCLID6 Genetic Toxicity Parser
 IUCLID6 dossier 파일(.i6z)에서 Genetic Toxicity in Vitro endpoint 정보를 추출하기 위한 스크립트입니다. 
 본 코드는 대량의 IUCLID6 dossier 파일로부터 유전독성 데이터를 구조화된 csv 형태로 변환하기 위해 작성되었습니다. 
 
