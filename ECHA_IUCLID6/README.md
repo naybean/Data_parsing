@@ -1,4 +1,4 @@
-## IUCLID6 Genetic Toxicity Parser
+## :file_folder:IUCLID6 Genetic Toxicity Parser
 
 IUCLID (International Uniform Chemical Information Database) is a free software application developed by ECHA (European Chemicals Agency) and the OECD.
 
